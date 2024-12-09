@@ -5,11 +5,11 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 # Puedes encontrarme en mis redes sociales:
 
 [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)
+https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png
+https://img.icons8.com/color/48/FFFFFF/twitter--v1.png
+https://img.icons8.com/color/48/FFFFFF/youtube-play.png
+https://img.icons8.com/color/48/FFFFFF/linkedin.png
 
-
-https://linkedin.com/in/owen-puerta-sauto-2442221a2
-
-https://www.instagram.com/owenpuerta93?utm_source=qr&igsh=MXY0bGQ0cHBpMjd2cA==
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
