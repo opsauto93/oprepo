@@ -5,10 +5,11 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 # Puedes encontrarme en mis redes sociales:
 
 [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)
-https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png
-https://img.icons8.com/color/48/FFFFFF/twitter--v1.png
-https://img.icons8.com/color/48/FFFFFF/youtube-play.png
-https://img.icons8.com/color/48/FFFFFF/linkedin.png
+[![Instagram](https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png)](https://youtube.com/@mouredev)
+[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)
+[![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)
+[![Linkedin](https://img.icons8.com/color/48/FFFFFF/linkedin.png)](https://youtube.com/@mouredev)
+
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
