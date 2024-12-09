@@ -4,6 +4,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 
 # Puedes encontrarme en mis redes sociales:
 
+![https://github.com/mouredev](./mouredev_github_profile.png)
 ![https://github.com/owendev93/owendev93/blob/master/linkedin.svg]
 
 https://linkedin.com/in/owen-puerta-sauto-2442221a2
