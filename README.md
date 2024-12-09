@@ -5,20 +5,14 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 # Puedes encontrarme en mis redes sociales:
 
 <!-- [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)-->
-[![Instagram](https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png)](https://youtube.com/@mouredev)
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
 <!--[![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)-->
-[![Linkedin](https://img.icons8.com/color/48/FFFFFF/linkedin.png)](https://youtube.com/@mouredev)
-
 <p align="center">
-  <a href="https://youtube.com/@mouredev">
-    <img src="https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png" />
+  <a href="https://www.instagram.com/owenpuerta93?utm_source=qr&igsh=MXY0bGQ0cHBpMjd2cA== ">
+    <img src="https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png"/>
   </a>
-  <a href="https://youtube.com/@mouredev">
-    <img src="https://img.icons8.com/color/48/FFFFFF/linkedin.png" />
+  <span>
+  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
+    <img src="https://img.icons8.com/color/48/FFFFFF/linkedin.png"/>
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-
