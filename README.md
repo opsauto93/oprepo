@@ -10,7 +10,11 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 [![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)
 [![Linkedin](https://img.icons8.com/color/48/FFFFFF/linkedin.png)](https://youtube.com/@mouredev)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
