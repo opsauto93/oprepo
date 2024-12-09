@@ -14,6 +14,9 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
   <a href="https://youtube.com/@mouredev">
     <img src="https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png" />
   </a>
+  <a href="https://youtube.com/@mouredev">
+    <img src="https://img.icons8.com/color/48/FFFFFF/linkedin.png" />
+  </a>
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
