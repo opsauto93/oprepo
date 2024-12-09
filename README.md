@@ -6,3 +6,5 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 https://linkedin.com/in/owen-puerta-sauto-2442221a2
 
 https://www.instagram.com/owenpuerta93?utm_source=qr&igsh=MXY0bGQ0cHBpMjd2cA==
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
