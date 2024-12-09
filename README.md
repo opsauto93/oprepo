@@ -8,6 +8,8 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 ![https://github.com/owendev93](./linkedin.svg)
 https://img.icons8.com/color/48/FFFFFF/facebook-new.png
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
+
 https://linkedin.com/in/owen-puerta-sauto-2442221a2
 
 https://www.instagram.com/owenpuerta93?utm_source=qr&igsh=MXY0bGQ0cHBpMjd2cA==
