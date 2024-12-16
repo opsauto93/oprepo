@@ -23,4 +23,10 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
   <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
   </a>
+  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
 </p>
