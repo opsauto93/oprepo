@@ -16,6 +16,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 
 # Puedes encontrarme en mis redes sociales:
 
+![https://linkedin.com/in/owen-puerta-sauto-2442221a2](https://go-skill-icons.vercel.app/api/icons?i=linkedin)
 <!-- [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)-->
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
 <!--[![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)-->
@@ -32,7 +33,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 </p>
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
+
 <p align="center">
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
 </p>
