@@ -17,9 +17,9 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 # Puedes encontrarme en mis redes sociales:
 
 [![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/owen-puerta-sauto-2442221a2)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/mouredev)
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/owenpuerta93/profilecard/?igsh=MXY0bGQ0cHBpMjd2cA==)
 <!--[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook)](https://facebook.com/owen.puerta.3)-->
-[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/mouredev)
 
 <!-- [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)-->
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
