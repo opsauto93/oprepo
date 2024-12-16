@@ -16,25 +16,11 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 
 # Puedes encontrarme en mis redes sociales:
 
-[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/owen-puerta-sauto-2442221a2)
-!["https://linkedin.com/in/owen-puerta-sauto-2442221a2"](https://go-skill-icons.vercel.app/api/icons?i=linkedin)
+[![Linkedin](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/owen-puerta-sauto-2442221a2)
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/owenpuerta93/profilecard/?igsh=MXY0bGQ0cHBpMjd2cA==)
+<!--[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook)](https://facebook.com/owen.puerta.3)-->
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://twitter.com/mouredev)
+
 <!-- [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)-->
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
 <!--[![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)-->
-<p align="center">
-  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
-  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
-  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
-  </a>
-</p>
-
-
-
-<p align="center">
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
-</p>
