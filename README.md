@@ -31,6 +31,6 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
   </a>
 </p>
 
-<p aling=align="center">
+<p align="center">
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,nodejs,figma&theme=light)
 </p>
