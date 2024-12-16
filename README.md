@@ -10,7 +10,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
 <!--[![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)-->
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <!--<a href="https://go-skill-icons.vercel.app/">-->
     <img src="https://go-skill-icons.vercel.app/api/icons?i=python,git,githubpages,gitkraken,django,css" />
   </a>
 </p>
