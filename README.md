@@ -10,11 +10,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
 <!--[![Youtube](https://img.icons8.com/color/48/FFFFFF/youtube-play.png)](https://youtube.com/@mouredev)-->
 <p align="center">
-  <a href="https://www.instagram.com/owenpuerta93?utm_source=qr&igsh=MXY0bGQ0cHBpMjd2cA== ">
-    <img src="https://img.icons8.com/color/48/FFFFFF/instagram-new--v1.png"/>
-  </a>
-  <span>
-  <a href="https://linkedin.com/in/owen-puerta-sauto-2442221a2">
-    <img src="https://img.icons8.com/color/48/FFFFFF/linkedin.png"/>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,git,githubpages,gitkraken,django,css" />
   </a>
 </p>
