@@ -16,7 +16,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 
 # Puedes encontrarme en mis redes sociales:
 
-[![Linkedin Status](https://linkedin.com/in/owen-puerta-sauto-2442221a2)](https://go-skill-icons.vercel.app/api/icons?i=linkedin)
+[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
 !["https://linkedin.com/in/owen-puerta-sauto-2442221a2"](https://go-skill-icons.vercel.app/api/icons?i=linkedin)
 <!-- [![Facebook](https://img.icons8.com/color/48/FFFFFF/facebook-new.png)](https://youtube.com/@mouredev)-->
 <!--[![Twitter](https://img.icons8.com/color/48/FFFFFF/twitter--v1.png)](https://youtube.com/@mouredev)-->
