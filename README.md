@@ -9,7 +9,7 @@ Soy Ingeniero en Informática desde 2017, con una pasión por el desarrollo de s
 
 <p align="center">
   <!--<a href="https://go-skill-icons.vercel.app/">-->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,git,githubpages,gitkraken,django,css" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,python,django,git,github,gitkraken,react,vite,html,javascript,css" />
   </a>
 </p>
 
